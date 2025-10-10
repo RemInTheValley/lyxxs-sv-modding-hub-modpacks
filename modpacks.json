@@ -8,12 +8,5 @@
     "emoji": "💖",
     "downloadUrl": "https://github.com/RemInTheValley/lyxxs-sv-modding-hub-modpacks/releases/download/v0.0.3/BCF-v0.0.3.zip",
     "tags": ["expansion", "qol"]
-    "changelog": [
-      {
-        "version": "0.0.2",
-        "date": "October 10, 2025",
-        "changes": "- Added some furniture and decor mods\n- Added cornucopia"
-      }
-    ]
   }
 ]
