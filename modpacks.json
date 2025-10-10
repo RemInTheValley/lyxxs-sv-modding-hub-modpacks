@@ -3,10 +3,10 @@
     "id": "bcf",
     "name": "BCF",
     "description": "BCF Modpack",
-    "version": "0.0.1",
-    "modCount": 117,
+    "version": "0.0.2",
+    "modCount": 122,
     "emoji": "💖",
-    "downloadUrl": "https://github.com/RemInTheValley/lyxxs-sv-modding-hub-modpacks/releases/download/v0.0.1/BCF-v0.0.1.zip",
+    "downloadUrl": "https://github.com/RemInTheValley/lyxxs-sv-modding-hub-modpacks/releases/download/v0.0.2/BCF-v0.0.2.zip",
     "tags": ["expansion", "qol", "new-look"]
   }
 ]
