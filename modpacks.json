@@ -3,10 +3,16 @@
     "id": "bcf",
     "name": "BCF",
     "description": "BCF Modpack",
-    "version": "0.0.2",
-    "modCount": 122,
+    "version": "0.0.3",
+    "modCount": 121,
     "emoji": "💖",
-    "downloadUrl": "https://github.com/RemInTheValley/lyxxs-sv-modding-hub-modpacks/releases/download/v0.0.2/BCF-v0.0.2.zip",
-    "tags": ["expansion", "qol", "new-look"]
+    "downloadUrl": "https://github.com/RemInTheValley/lyxxs-sv-modding-hub-modpacks/releases/download/v0.0.3/BCF-v0.0.3.zip",
+    "tags": ["expansion", "qol"]
+     "changelog": [
+    {
+      "version": "0.0.3",
+      "date": "October 10, 2025",
+      "changes": "- Added some furniture and decor mods\n- Added cornucopia"
+    }
   }
 ]
