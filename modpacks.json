@@ -3,12 +3,17 @@
     "id": "bcf",
     "name": "BCF",
     "description": "BCF Modpack",
-    "version": "0.0.5",
-    "modCount": 122,
+    "version": "0.0.6",
+    "modCount": 118,
     "emoji": "💖",
-    "downloadUrl": "https://github.com/RemInTheValley/lyxxs-sv-modding-hub-modpacks/releases/download/v0.0.5/BCF-v0.0.5.zip",
+    "downloadUrl": "https://github.com/RemInTheValley/lyxxs-sv-modding-hub-modpacks/releases/download/v0.0.6/BCF-v0.0.6.zip",
     "tags": ["expansion", "dialogue", "events", "qol"],
     "changelog": [
+     {
+        "version": "v0.0.6",
+        "date": "October 10, 2025",
+        "changes": "- Added Gender Neutrality Mod Tokens\n- Removed cornucopia"
+      },
       {
         "version": "v0.0.5",
         "date": "October 10, 2025",
