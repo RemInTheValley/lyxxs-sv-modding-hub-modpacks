@@ -3,12 +3,17 @@
     "id": "bcf",
     "name": "BCF",
     "description": "BCF Modpack",
-    "version": "0.0.7",
-    "modCount": 119,
+    "version": "0.0.8",
+    "modCount": 132,
     "emoji": "💖",
-    "downloadUrl": "https://github.com/RemInTheValley/lyxxs-sv-modding-hub-modpacks/releases/download/v0.0.7/BCF-v0.0.7.zip",
-    "tags": ["expansion", "dialogue", "events", "qol"],
+    "downloadUrl": "https://github.com/RemInTheValley/lyxxs-sv-modding-hub-modpacks/releases/download/v0.0.8/BCF-v0.0.8.zip",
+    "tags": ["expansion", "dialogue", "events", "qol", "cosmetics"],
     "changelog": [
+     {
+        "version": "v0.0.8",
+        "date": "October 11, 2025",
+        "changes": "Added:\n- Furniture\n- Hairstyles/Clothing"
+      },
      {
         "version": "v0.0.7",
         "date": "October 11, 2025",
